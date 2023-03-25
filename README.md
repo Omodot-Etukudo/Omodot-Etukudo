@@ -1,8 +1,8 @@
 # Hi!👋 I'm Omodot
 
-A Full-time Product Designer based in 📍Lagos,Nigeria -- also passionate about web development with modern frontend technologies.
+A Product Designer based in 📍London,UK -- also passionate about web development with modern frontend technologies.
 - 💼 Currently collaborating with a couple developers to implement a few ideas 🔐 
-- 📚 Constantly learning something about Next.JS 👨‍💻 
+- 📚 Constantly learning something about multiple technologies 👨‍💻 
 - 🤝 Looking to collaborate with developers on design or development projects
 - 👨 He / Him
 - 💬 Ask me anything about Product Design
