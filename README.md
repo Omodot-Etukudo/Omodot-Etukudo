@@ -1,11 +1,10 @@
 # Hi!👋 I'm Omodot
 
-A Product Designer based in 📍London,UK -- also passionate about web development with modern frontend technologies.
-- 💼 Currently collaborating with a couple developers to implement a few ideas 🔐 
+A Product Designer based in 📍London,UK -- passionate about startups, fintech, web3 and web development with modern frontend technologies.
 - 📚 Constantly learning something about multiple technologies 👨‍💻 
 - 🤝 Looking to collaborate with developers on design or development projects
 - 👨 He / Him
-- 💬 Ask me anything about Product Design
+- 💬 Ask me anything about Fintech, Web3 or Product Design
 - ⚡️ When i'm not working, I'm either playing basketball 🏀 or watching a couple shows 📺
 - 📫 How to reach me **omodote@hotmail.com**
 
