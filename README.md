@@ -5,7 +5,7 @@ A Product Designer based in 📍London,UK -- passionate about startups, fintech,
 - 🤝 Looking to collaborate with developers on design or development projects
 - 👨 He / Him
 - 💬 Ask me anything about Fintech, Web3 or Product Design
-- ⚡️ When i'm not working, I'm either playing basketball 🏀 or watching a couple shows 📺
+- ⚡️ When i'm not working, I'm either at the gym or watching a couple shows 📺
 - 📫 How to reach me **omodote@hotmail.com**
 
 <h3 align="left">Toolbox 🧰 </h3>
