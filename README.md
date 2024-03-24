@@ -1,11 +1,11 @@
 # Hi!👋 I'm Omodot
 
-A Product Designer & UX engineer based in 📍London,UK - passionate about startups, SaaS, fintech, web3 and web development with modern frontend technologies.
+A Product Designer & UX engineer based in 📍London, UK - passionate about startups, SaaS, fintech, web3 and web development with modern frontend technologies.
 - 📚 Constantly learning something about various technologies 👨‍💻 
 - 🤝 Looking to collaborate with developers on design or development projects
 - 👨 He / Him
 - 💬 Ask me anything about Fintech, Web3 or Product Design
-- ⚡️ When i'm not working, I'm either at the gym 🏋️‍♀️, cooking 🧑‍🍳 or watching a couple shows 📺
+- ⚡️ When I'm not working, I'm either at the gym 🏋️‍♀️, cooking 🧑‍🍳 or watching a couple of shows 📺
 - 📫 How to reach me **omodote@hotmail.com**, i don't bite (maybe)
 
 <h3 align="left">Toolbox 🧰 </h3>
