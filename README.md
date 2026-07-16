@@ -6,7 +6,6 @@ A Product Designer & UX engineer based in 📍London, UK - passionate about star
 - 👨 He / Him
 - 💬 Ask me anything about Fintech, Web3 or Product Design
 - ⚡️ When I'm not working, I'm either at the gym 🏋️‍♀️, cooking 🧑‍🍳 or watching a couple of shows 📺
-- 📫 How to reach me **omodote@hotmail.com**, i don't bite (maybe)
 
 <h3 align="left">Toolbox 🧰 </h3>
 <p align="left">
